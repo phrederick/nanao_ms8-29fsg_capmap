@@ -1,4 +1,4 @@
-# NANAO MS8-29FSG Electrolytic Capacitor Location Reference
+# NANAO MS8-29FSG - Recap Reference
 
 <!-- TOC -->
 
@@ -10,17 +10,23 @@
 <!-- /TOC -->
 
 ## Overview
-The purpose of this page is to serve as a quick and easy reference for a recap of your NANAO MS8-29FSG chassis.
+The purpose of this page is to serve as a quick and easy reference for a recap of your NANAO MS8-29FSG chassis. In the context of this page, the term "recap" refers to the replacement of electrolytic capacitors which are a common failure point for electronics.
+
+Please note that you should not assume that a recap is a magical "fix-all solution" for issues you may be experiencing with your arcade machine. Although completely optional, an ESR meter is an invaluable tool for troubleshooting electrolytic capacitors **both in and out of circuit**, and they can save you a LOT of time if you know how to use one. I encourage you to do your own research about how they work and where to get them. They are a relatively cheap tool and I can't recommend them enough. A couple of examples are:
+
+* 'EVB' brand ESR meter: https://www.evbesrmeter.pt/
+* 'PEAK' brand Atlas ESR70 meter: https://www.peakelec.co.uk/acatalog/esr70-capacitor-esr-meter.html
 
 ## Who this page is for
-There are cap kits for the NANAO MS8-29FSG chassis available online, but if you prefer to purchase your own caps for whatever reason (e.g. it's cheaper, or you prefer specific brand electrolytic capacitors), this page may be useful to you. The assumptions are that you:
+There are capacitor kits for the NANAO MS8-29FSG chassis available online, but if you prefer to purchase your own caps for whatever reason (e.g. it's cheaper, or you prefer specific brands), this page may be useful to you. The assumptions are that you:
 * Know what a NANAO MS8-29FSG chassis is (and I suppose you do if you're reading this page)
 * Know how to safely dismantle and discharge the CRT + chassis in your cabinet
 * Have some basic knowledge of what an electrolytic capacitor is and how to observe the correct polarity when installing them
-* Have the necessary soldering skills and equipment, such as:
+* Have the necessary soldering skills and equipment, such as:    
     * Soldering iron
     * Side cutters
     * Desoldering tools
+    * ESR meter (optional)    
 
 ## Reference Map
 <img src="https://i.imgur.com/zo7C84B.png">
