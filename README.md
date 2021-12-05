@@ -7,13 +7,52 @@ The purpose of this page is to serve as a quick and easy reference for a recap o
 There are cap kits for the NANAO MS8-29FSG chassis available online, but if you prefer to purchase your own caps for whatever reason (e.g. it's cheaper, or you prefer specific brand electrolytic capacitors), this page may be useful to you. The assumptions are that you:
 * Know what a NANAO MS8-29FSG chassis is (and I suppose you do if you're reading this page)
 * Know how to safely dismantle and discharge the CRT + chassis in your cabinet
-* Have the necessary equipment and soldering skills:
+* Have the necessary soldering skills and equipment, such as:
     * Soldering iron
     * Side cutters
     * Desoldering tools
 
 ## Reference Map
-<img src="https://i.imgur.com/EAOFgNx.png">
+<img src="https://i.imgur.com/zo7C84B.png">
 
 ## Capacitor Values & Notes
-To-do
+Reference|Capacitance Value|Voltage Rating|Location & Notes|
+---------|-----------------|--------------|----------------|
+C401 | 1 uF | 50 V | **main board**
+C422 | 470 uF | 16 V | **main board**
+C431 | 470 uF | 35 V | **main board**
+C432 | 100 uF | 35 V | **main board**
+C438 | 470 uF | 25 V | **main board**
+C443 | 1 uF | 50 V | **main board**
+C446 | 33 uF | 16 V | **main board**<br>* Non-polarised.
+C447 | 47 uF | 16 V | **main board**
+C448 | 100 uF | 35 V | **main board**
+C449 | 33 uF | 16 V | **main board**
+C501 | 1 uF | 50 V | **main board**
+C521 | 33 uF | 16 V | **main board**<br>* This is an 'OS-CON' low ESR polymer capacitor.<br>* A suitable replacement would be something like [these](https://www.digikey.com.au/en/products/filter/aluminum-polymer-capacitors/69?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALGGABxwDsIAuoQA4AuUIAyuwE4BLAHYBzEAF9CAJgAMFBNBApIGHAWJkQAZi0ACAK0AxZm06QQAVSED2AeVQBZXOmwBXPrgmEAtBEXLVPEISSHIwGWZJEG8KRCU0LCCNUO04GABWRkItNPSaEGzchEKYGAgSjILU0oiKqUifev8ofld1EPJ0yKiuxVYoMDZ%2ByHCZcXEgA).
+C560 | 0.47 uF | 160 V | **main board**
+C561 | 1 uF | 200 V | **main board**
+C562 | 4.7 uF | 25 V | **main board**
+C565 | 4.7 uF | 100 V | **main board**
+C566 | 4.7 uF | 100 V | **main board**<br>* Unmarked on PCB but shares location with R566.<br>* Negative lead to the left as per Reference Map image.
+C570 | 22 uF | 250 V | **main board**
+C572 | 47 uF | 16 V | **main board**
+C573 | 470 uF | 16 V | **main board**
+C574 | 33 uF | 35 V | **main board**
+C576 | 470 uF | 16 V | **main board**
+C577 | 1 uF | 100 V | **main board**
+C580 | 1 uF | 50 V | **main board**
+C905 | 1000 uF | 180 V | **main board**<br>* Filter cap - unlikely to need replacing.
+C906 | 100 uF | 160 V | **main board**
+C908 | 47 uF | 16 V | **main board**
+C909 | 100 uF | 160 V | **main board**
+C910 | 220 uF | 50 V | **main board**
+C911 | 220 uF | 25 V | **main board**
+C913 | 220 uF | 16 V | **main board**
+C1 | 1 uF | 50 V | <span style="color:blue">**card 1**</span>
+C2 | 1 uF | 50 V | <span style="color:blue">**card 1**</span>
+C3 | 1 uF | 50 V | <span style="color:blue">**card 1**</span>
+C4 | 1 uF | 50 V | <span style="color:blue">**card 1**</span>
+C420 | 1 uF | 50 V | <span style="color:green">**card 2**</span>
+C532 | 1 uF | 50 V | <span style="color:green">**card 2**</span>
+C332 | 1 uF | 50 V | <span style="color:orange">**neck board**</span>
