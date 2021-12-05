@@ -1,5 +1,14 @@
 # NANAO MS8-29FSG Electrolytic Capacitor Location Reference
 
+<!-- TOC -->
+
+- [Overview](#overview)
+- [Who this page is for](#who-this-page-is-for)
+- [Reference Map](#reference-map)
+- [Capacitor Values & Notes](#capacitor-values--notes)
+
+<!-- /TOC -->
+
 ## Overview
 The purpose of this page is to serve as a quick and easy reference for a recap of your NANAO MS8-29FSG chassis.
 
@@ -7,6 +16,7 @@ The purpose of this page is to serve as a quick and easy reference for a recap o
 There are cap kits for the NANAO MS8-29FSG chassis available online, but if you prefer to purchase your own caps for whatever reason (e.g. it's cheaper, or you prefer specific brand electrolytic capacitors), this page may be useful to you. The assumptions are that you:
 * Know what a NANAO MS8-29FSG chassis is (and I suppose you do if you're reading this page)
 * Know how to safely dismantle and discharge the CRT + chassis in your cabinet
+* Have some basic knowledge of what an electrolytic capacitor is and how to observe the correct polarity when installing them
 * Have the necessary soldering skills and equipment, such as:
     * Soldering iron
     * Side cutters
@@ -34,7 +44,7 @@ C560 | 0.47 uF | 160 V | **main board**
 C561 | 1 uF | 200 V | **main board**
 C562 | 4.7 uF | 25 V | **main board**
 C565 | 4.7 uF | 100 V | **main board**
-C566 | 4.7 uF | 100 V | **main board**<br>* Unmarked on PCB but shares location with R566.<br>* Negative lead to the left as per Reference Map image.
+C566 | 4.7 uF | 100 V | **main board**<br>* Unmarked on PCB but shares location with R566.<br>* Negative lead to the left as per [Reference Map](#reference-map) image.
 C570 | 22 uF | 250 V | **main board**
 C572 | 47 uF | 16 V | **main board**
 C573 | 470 uF | 16 V | **main board**
