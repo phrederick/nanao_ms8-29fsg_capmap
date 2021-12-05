@@ -49,10 +49,10 @@ C909 | 100 uF | 160 V | **main board**
 C910 | 220 uF | 50 V | **main board**
 C911 | 220 uF | 25 V | **main board**
 C913 | 220 uF | 16 V | **main board**
-C1 | 1 uF | 50 V | <span style="color:blue">**card 1**</span>
-C2 | 1 uF | 50 V | <span style="color:blue">**card 1**</span>
-C3 | 1 uF | 50 V | <span style="color:blue">**card 1**</span>
-C4 | 1 uF | 50 V | <span style="color:blue">**card 1**</span>
-C420 | 1 uF | 50 V | <span style="color:green">**card 2**</span>
-C532 | 1 uF | 50 V | <span style="color:green">**card 2**</span>
-C332 | 1 uF | 50 V | <span style="color:orange">**neck board**</span>
+C1 | 1 uF | 50 V | **card 1**
+C2 | 1 uF | 50 V | **card 1**
+C3 | 1 uF | 50 V | **card 1**
+C4 | 1 uF | 50 V | **card 1**
+C420 | 1 uF | 50 V | **card 2**
+C532 | 1 uF | 50 V | **card 2**
+C332 | 1 uF | 50 V | **neck board**
