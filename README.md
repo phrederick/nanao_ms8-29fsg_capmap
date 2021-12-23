@@ -72,4 +72,4 @@ C3 | 1 uF | 50 V | **card 1** | [493-5042-1-ND](https://www.digikey.com.au/en/pr
 C4 | 1 uF | 50 V | **card 1** | [493-5042-1-ND](https://www.digikey.com.au/en/products/detail/nichicon/UPJ1H010MDD1TD/3129379)
 C420 | 1 uF | 50 V | **card 2** | [493-5042-1-ND](https://www.digikey.com.au/en/products/detail/nichicon/UPJ1H010MDD1TD/3129379)
 C532 | 1 uF | 50 V | **card 2** | [493-5042-1-ND](https://www.digikey.com.au/en/products/detail/nichicon/UPJ1H010MDD1TD/3129379)
-C332 | 10 uF | 250 V | **neck board** | [493-5042-1-ND](https://www.digikey.com.au/en/products/detail/nichicon/UPJ2E100MHD1TO/3129494)
+C332 | 10 uF | 250 V | **neck board** | [493-5157-1-ND](https://www.digikey.com.au/en/products/detail/nichicon/UPJ2E100MHD1TO/3129494)
